@@ -1,7 +1,7 @@
 public class Cd extends item{
     
     private String genero; 
-    private String nomemsc;''
+    private String nomemsc;
 
 
     //@Override 
