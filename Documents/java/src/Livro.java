@@ -5,7 +5,6 @@ public class Livro extends item {
 
         public Livro(String nomeeditora,int anopublicacao){
             this.nomeeditora=nomeeditora;
-
             this.anopublicacao = anopublicacao;
         }
 }
